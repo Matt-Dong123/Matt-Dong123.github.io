@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 ------
-- Bachelor degree: Shenzhen University, Computer Science and Technology(2019~2023)
 - Master degree: Shenzhen University, Computer Science and Technology (2023~2026, pursuing)
-
+- Bachelor degree: Shenzhen University, Computer Science and Technology(2019~2023)
+  
 Publications
 ------
 - **Dong Y**, Zhong Z, Wang Y, et al. Dancer: Dynamic Compression and Quantization Architecture for Deep Graph Convolutional Network (**DATE'25**)
