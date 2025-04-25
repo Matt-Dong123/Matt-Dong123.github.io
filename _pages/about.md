@@ -9,8 +9,8 @@ redirect_from:
 
 Education
 ------
-- Bachelor degree: Shenzhen University (2019~2023)
-- Master degree: Shenzhen University (2023~2026, prusuing)
+- Bachelor degree: Shenzhen University, Computer Science and Technology(2019~2023)
+- Master degree: Shenzhen University, Computer Science and Technology (2023~2026, pursuing)
 
 Publications
 ------
@@ -19,8 +19,9 @@ Publications
 
  Patents
 ------
-- Shenzhen University
-- Shenzhen University
+- A Method, Apparatus, Storage Medium, and Electronic Device for Predicting Data Read and Write Behavior, Shenzhen University, 2022
+- A Method, Apparatus, and Electronic Device for Data Storage, Shenzhen University, 2023
+- A Method, Apparatus, and Electronic Device for Data Retrieval, Shenzhen University, 2023
 
  Projects
 ------
